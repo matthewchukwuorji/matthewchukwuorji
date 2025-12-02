@@ -50,7 +50,7 @@ I am committed to leveraging my cybersecurity skills to help build a safer digit
 
 - **EC-Council Certified Cybersecurity Technician (C|CT)**  
 - **Google Cybersecurity Professional Certificate**
-
+- **Certified Network Security Practitioner (CNSP)**
 ---
 
 ## 📌 Featured Projects
