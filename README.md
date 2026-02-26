@@ -1,48 +1,48 @@
-# 👋 Hi, I'm Matthew Chidiebere Chukwuorji
+# Matthew Chidiebere Chukwuorji
 
-**Cybersecurity Analyst | SOC Analyst (Aspiring) | Threat Detection & Response Enthusiast**
+**Cybersecurity Analyst | SOC Analyst | IT Support**
 
-I’m passionate about safeguarding digital environments and protecting sensitive information from ever-evolving cyber threats. I thrive on the challenge of staying ahead, continuously learning, and applying innovative solutions to strengthen security posture.
+I am a cybersecurity professional with hands-on experience in security monitoring, incident response, and IT support. My background combines SOC operations with practical system and user support, allowing me to contribute effectively to both security and operational stability.
 
-My goal is to deepen my expertise as a **Security Operations Center (SOC) Analyst**, focusing on threat intelligence, cloud security, IoT security, and incident detection & response.
-
----
-
-## 🔐 Professional Statement
-
-In the field of cybersecurity, I’m dedicated to ensuring privacy, securing data, and defending critical systems against threats. This dynamic industry allows me to expand my technical knowledge while making a meaningful impact by securing digital infrastructures.
-
-I strive to help organizations uphold the **Confidentiality, Integrity, and Availability (CIA)** of their data by proactively identifying, analyzing, and mitigating risks.
+I focus on detecting threats, analyzing security events, resolving technical issues, and supporting secure, reliable IT environments.
 
 ---
 
-## 🧠 Strengths
 
-- **Problem-Solving:** Strong analytical and critical-thinking skills applied to diagnosing vulnerabilities, analyzing threats, and recommending efficient remediation strategies.  
-- **Collaboration:** Effective communicator who thrives in team-driven environments—sharing knowledge, coordinating response efforts, and aligning security objectives.
+## Professional Summary
 
----
-
-## 💡 Values
-
-- **Individual Privacy:** Committed to privacy-by-design principles and implementing solutions that respect personal rights.  
-- **Data Confidentiality:** Focused on encryption, access control, and proactive monitoring to preserve trust and protect sensitive data.
+Experienced in SOC operations and IT support, with a strong understanding of security monitoring, incident handling, and system troubleshooting. I apply security best practices while supporting users and infrastructure, guided by the principles of confidentiality, integrity, and availability (CIA).
 
 ---
 
-## 🎯 Core Statement
+## Core Skills
 
-I am committed to leveraging my cybersecurity skills to help build a safer digital landscape. Guided by **problem-solving** and **collaboration**, and grounded in **privacy** and **data confidentiality**, I aim to deliver ethical, effective, and reliable security solutions aligned with organizational and industry standards.
+### Technical Skills
+- Security monitoring and alert triage (SIEM)
+- Threat detection and incident response
+- Log analysis and basic threat investigation
+- Vulnerability assessment
+- Network fundamentals (TCP/IP, firewalls, IDS/IPS)
+- IT support and system troubleshooting (Windows and Linux)
+- Ticketing systems and user support
 
----
+### Tools
+- Wireshark
+- Nmap
+- Metasploit
+- OpenVAS
+- Burp Suite
+- Git and GitHub
+- VMware and VirtualBox
 
-## 🛠️ Skills & Tools
+## Soft Skills
 
-**Security:** SIEM • SOC Operations • Threat Intelligence • Incident Monitoring  
-**Networking:** TCP/IP • Firewalls • IDS/IPS • Routing & Switching  
-**Cybersecurity:** Linux Security • Vulnerability Assessment • Incident Response  
-**Tools:** Wireshark • Metasploit • Owasp • Openvas • Nmap • Burp Suite  
-**Other:** Git/GitHub • Python (Basics) • VMware/VirtualBox  
+- Analytical thinking and problem-solving
+- Clear communication with technical and non-technical users
+- Team collaboration in high-pressure environments
+- Attention to detail and documentation
+- Time management and task prioritization
+- Strong ethical mindset and professionalism
 
 ---
 
@@ -52,6 +52,7 @@ I am committed to leveraging my cybersecurity skills to help build a safer digit
 - **Google Cybersecurity Professional Certificate**
 - **CNSP (The SecOps Group)**
 - **Cybersecurity & IT Infrastructure**
+- **Google IT Suport Professional Certificate**
 ---
 
 ## 📌 Featured Projects
