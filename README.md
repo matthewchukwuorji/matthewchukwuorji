@@ -8,7 +8,6 @@ I focus on detecting threats, analyzing security events, resolving technical iss
 
 ---
 
-
 ## Professional Summary
 
 Experienced in SOC operations and IT support, with a strong understanding of security monitoring, incident handling, and system troubleshooting. I apply security best practices while supporting users and infrastructure, guided by the principles of confidentiality, integrity, and availability (CIA).
