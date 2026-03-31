@@ -1,86 +1,104 @@
 # Matthew Chidiebere Chukwuorji
 
-**Cybersecurity Analyst | SOC Analyst | IT Support**
+**Cybersecurity Analyst | SOC Analyst | Cloud Security (AWS) | IT Support**
 
-I am a cybersecurity professional with hands-on experience in security monitoring, incident response, and IT support. My background combines SOC operations with practical system and user support, allowing me to contribute effectively to both security and operational stability.
+I am a cybersecurity professional with hands-on experience in security monitoring, incident response, cloud security, and IT support. My background combines SOC operations with system administration and user support, enabling me to contribute to both security operations and IT stability.
 
-I focus on detecting threats, analyzing security events, resolving technical issues, and supporting secure, reliable IT environments.
+I focus on detecting threats, analyzing security events, investigating incidents, and maintaining secure IT and cloud environments.
 
 ---
 
 ## Professional Summary
 
-Experienced in SOC operations and IT support, with a strong understanding of security monitoring, incident handling, and system troubleshooting. I apply security best practices while supporting users and infrastructure, guided by the principles of confidentiality, integrity, and availability (CIA).
+Experienced in SOC operations, cloud security, and IT support with a strong focus on monitoring, incident handling, and system troubleshooting. I apply security best practices across on-premise and cloud environments, guided by confidentiality, integrity, and availability (CIA) principles.
 
 ---
 
 ## Core Skills
 
-### Technical Skills
+### Security & SOC
 - Security monitoring and alert triage (SIEM)
 - Threat detection and incident response
-- Log analysis and basic threat investigation
-- Vulnerability assessment
-- Network fundamentals (TCP/IP, firewalls, IDS/IPS)
-- IT support and system troubleshooting (Windows and Linux)
-- Ticketing systems and user support
+- Log analysis and security investigation
+- Vulnerability assessment and basic threat hunting
+- Network security monitoring (IDS/IPS)
 
-### Tools
-- Wireshark
-- Nmap
-- Metasploit
-- OpenVAS
-- Burp Suite
-- Git and GitHub
-- VMware and VirtualBox
+### Cloud Security (AWS)
+- AWS Identity and Access Management (IAM)
+- AWS shared responsibility model
+- Cloud security fundamentals and access control
+- Basic cloud logging and monitoring concepts
+
+### IT Support & Systems
+- Windows and Linux system troubleshooting
+- User and access management
+- System administration and maintenance
+- Ticketing systems and technical support
+
+### Networking
+- TCP/IP fundamentals
+- Firewall configuration and security rules
+- Network scanning and enumeration
+
+---
+
+## Tools & Technologies
+
+- Wazuh, ELK Stack, SIEM environments  
+- Wireshark, Nmap  
+- Metasploit, OpenVAS  
+- Burp Suite  
+- AWS (IAM, Cloud basics)  
+- VMware & VirtualBox  
+
+---
 
 ## Soft Skills
 
-- Analytical thinking and problem-solving
-- Clear communication with technical and non-technical users
-- Team collaboration in high-pressure environments
-- Attention to detail and documentation
-- Time management and task prioritization
-- Strong ethical mindset and professionalism
+- Analytical thinking and problem-solving  
+- Clear technical communication  
+- Documentation and reporting  
+- Attention to detail  
+- Team collaboration under pressure  
+- Strong ethical and security mindset  
 
 ---
 
-## 📜 Certifications
+## Certifications
 
-- **EC-Council Certified Cybersecurity Technician (C|CT)**  
-- **Google Cybersecurity Professional Certificate**
-- **CNSP (The SecOps Group)**
-- **Cybersecurity & IT Infrastructure**
-- **Google IT Suport Professional Certificate**
+- EC-Council Certified Cybersecurity Technician (C|CT)  
+- Google Cybersecurity Professional Certificate  
+- CNSP (The SecOps Group)  
+- Google IT Support Professional Certificate  
+- Cybersecurity & IT Infrastructure Training  
+
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 - **Cybersecurity Projects Repository**  
-  Practical labs, SOC exercises, ethical hacking tasks, and security research.
+  SOC labs, security analysis exercises, and ethical hacking practice.
 
-- **System Hacking – Gaining Access to a Vulnerable Machine (Educational)**  
-  Exploited a vulnerable PostgreSQL service on Metasploitable2.
+- **System Hacking – Metasploitable2 Lab**  
+  Simulated exploitation of a vulnerable PostgreSQL service for security learning.
 
-- **Network Attack and Monitoring**  
-  Monitored and detected network-based attacks using traffic analyzers and packet inspection tools.
+- **Network Attack & Monitoring Lab**  
+  Traffic analysis and detection of network-based attacks using packet inspection tools.
 
-- **CCTV Hacking (Educational Lab)**  
-  Accessed a simulated CCTV system ethically to understand surveillance vulnerabilities.
+- **CCTV Security Lab (Ethical Simulation)**  
+  Studied surveillance system vulnerabilities in a controlled environment.
 
-- **WiFi Hacking (Educational)**  
-  Captured WPA2 handshakes and performed ethical password recovery using penetration testing methodologies.
+- **WiFi Security Lab**  
+  WPA2 handshake capture and password recovery for penetration testing practice.
 
-- **Website Hacking – Accessing Admin Panel**  
-  Exploited DVWA vulnerabilities including SQL Injection and Command Injection to understand web security flaws.
+- **Web Security Testing (DVWA Lab)**  
+  SQL Injection and Command Injection testing in a controlled environment.
 
-- **Password Cracking on Open-Source System**  
-  Cracked weak FTP credentials and recovered plaintext passwords through ethical password‑auditing techniques.
-
+- **Password Security Assessment**  
+  Ethical password auditing on weak FTP credentials and access recovery.
 
 ---
 
-## 📫 Contact
+## Contact
 
-- **LinkedIn:** *www.linkedin.com/in/matthew-chukwuorji*
-
+- **LinkedIn:** www.linkedin.com/in/matthew-chukwuorji
