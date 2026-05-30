@@ -2,7 +2,7 @@
 
 **Cybersecurity Analyst | SOC Analyst | Cloud Security (AWS) | IT Support**
 
-I am a cybersecurity professional with hands-on experience in security monitoring, incident response, cloud security, and IT support. My background combines SOC operations with system administration and user support, enabling me to contribute to both security operations and IT stability.
+Cybersecurity professional with hands-on experience in security monitoring, incident response, cloud security, and IT support. My background combines SOC operations with system administration and user support, enabling me to contribute to both security operations and IT stability.
 
 I focus on detecting threats, analyzing security events, investigating incidents, and maintaining secure IT and cloud environments.
 
