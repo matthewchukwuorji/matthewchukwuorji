@@ -70,7 +70,8 @@ Experienced in SOC operations, cloud security, and IT support with a strong focu
 - Google Cybersecurity Professional Certificate  
 - CNSP (The SecOps Group)  
 - Google IT Support Professional Certificate  
-- Cybersecurity & IT Infrastructure Training  
+- Cybersecurity & IT Infrastructure Training
+- Microsoft Certified: Security Operations Analyst Associate (SC-200)
 
 ---
 
