@@ -68,9 +68,8 @@ Experienced in SOC operations, cloud security, and IT support with a strong focu
 
 - EC-Council Certified Cybersecurity Technician (C|CT)  
 - Google Cybersecurity Professional Certificate  
-- CNSP (The SecOps Group)  
+- Certified Network Security Practitioner (The SecOps Group)  
 - Google IT Support Professional Certificate  
-- Cybersecurity & IT Infrastructure Training
 - Microsoft Certified: Security Operations Analyst Associate (SC-200)
 
 ---
