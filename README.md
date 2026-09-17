@@ -78,7 +78,7 @@ Experienced in SOC operations, cloud security, and IT support with a strong focu
 ## Featured Projects
 
 - **Vulnerability Assessment and Exploitation Lab
-- [Project Details](./01-Vunlnerability-Scan-Exploit)
+- [Project Details](01-Vunlnerability-Scan-Exploit)
 
 - **Pretashop AWS Demo
 - [Project Details](02-PrestaShop-Deployment/README.md)
