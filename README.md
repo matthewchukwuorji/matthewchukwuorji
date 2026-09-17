@@ -77,9 +77,9 @@ Experienced in SOC operations, cloud security, and IT support with a strong focu
 
 ## Featured Projects
 
-- **Vulnerability Assessment and Exploitation Lab
-- **Pretashop AWS Demo
-- **Cowrie Honeypot Setup/Log
+- Vulnerability Assessment and Exploitation Lab
+- Pretashop AWS Demo
+- Cowrie Honeypot Setup/Log
 
 ---
 
