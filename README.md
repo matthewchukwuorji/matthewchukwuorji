@@ -76,26 +76,8 @@ Experienced in SOC operations, cloud security, and IT support with a strong focu
 
 ## Featured Projects
 
-- **Cybersecurity Projects Repository**  
-  SOC labs, security analysis exercises, and ethical hacking practice.
-
-- **System Hacking – Metasploitable2 Lab**  
-  Simulated exploitation of a vulnerable PostgreSQL service for security learning.
-
 - **Network Attack & Monitoring Lab**  
   Traffic analysis and detection of network-based attacks using packet inspection tools.
-
-- **CCTV Security Lab (Ethical Simulation)**  
-  Studied surveillance system vulnerabilities in a controlled environment.
-
-- **WiFi Security Lab**  
-  WPA2 handshake capture and password recovery for penetration testing practice.
-
-- **Web Security Testing (DVWA Lab)**  
-  SQL Injection and Command Injection testing in a controlled environment.
-
-- **Password Security Assessment**  
-  Ethical password auditing on weak FTP credentials and access recovery.
 
 ---
 
