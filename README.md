@@ -77,7 +77,7 @@ Experienced in SOC operations, cloud security, and IT support with a strong focu
 
 ## Featured Projects
 
-https://github.com/matthewchukwuorji/Cybersecurity-Projects.git
+**https://github.com/matthewchukwuorji/Cybersecurity-Projects.git**
 ---
 
 ## Contact
