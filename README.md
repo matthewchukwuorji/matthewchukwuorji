@@ -56,11 +56,12 @@ Experienced in SOC operations, cloud security, and IT support with a strong focu
 ## Soft Skills
 
 - Analytical thinking and problem-solving  
-- Clear technical communication  
+- Clear written and verbal communication  
 - Documentation and reporting  
 - Attention to detail  
-- Team collaboration under pressure  
-- Strong ethical and security mindset  
+- Team collaboration  
+- Strong ethical and security mindset
+- Troubleshooting 
 
 ---
 
@@ -76,8 +77,9 @@ Experienced in SOC operations, cloud security, and IT support with a strong focu
 
 ## Featured Projects
 
-- **Network Attack & Monitoring Lab**  
-  Traffic analysis and detection of network-based attacks using packet inspection tools.
+- **Vulnerability Assessment and Exploitation Lab
+- **Pretashop AWS Demo
+- **Cowrie Honeypot Setup/Log
 
 ---
 
